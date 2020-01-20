@@ -1,0 +1,2 @@
+#define SDRAM_USE_STM32F429_DISCOVERY
+#define STM32F4xx
